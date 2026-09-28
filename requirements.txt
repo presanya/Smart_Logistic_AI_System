@@ -1,0 +1,30 @@
+pandas
+streamlit
+matplotlib
+plotly
+seaborn
+scikit-learn
+numpy
+# ----------------------------
+# LLM / Ollama
+# ----------------------------
+ollama
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+chromadb
+faiss-cpu
+pypdf
+python-dotenv
+#database
+sqlalchemy
+psycopg2
+python-dotenv
+folium
+streamlit_folium
+google-genai
+sqlalchemy 
+psycopg2-binary
+ultralytics
+imbalanced-learn
